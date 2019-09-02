@@ -1,0 +1,2 @@
+[02-Apr-2019 15:02:43 Asia/Dhaka] PHP Warning:  require(D:\xampp7.4\htdocs\round-37\Laravel\SMS02042019\public/../vendor/autoload.php): failed to open stream: No such file or directory in D:\xampp7.4\htdocs\round-37\Laravel\SMS02042019\public\index.php on line 24
+[02-Apr-2019 15:02:43 Asia/Dhaka] PHP Fatal error:  require(): Failed opening required 'D:\xampp7.4\htdocs\round-37\Laravel\SMS02042019\public/../vendor/autoload.php' (include_path='D:\xampp7.4\php\PEAR') in D:\xampp7.4\htdocs\round-37\Laravel\SMS02042019\public\index.php on line 24
